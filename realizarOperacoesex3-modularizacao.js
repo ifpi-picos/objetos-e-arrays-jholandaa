@@ -1,4 +1,4 @@
-const operacoesMatematicas = require('./importação.js')
+const operacoesMatematicas = require('./importaçãoex3-modularizacao.js')
 const a = 10
 const b = 10
 const base = 10

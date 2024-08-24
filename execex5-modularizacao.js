@@ -1,4 +1,4 @@
-import BancoDeDadosUsuarios from './ex.js';
+import BancoDeDadosUsuarios from './ex5-modularizacao.js';
 const banco = new BancoDeDadosUsuarios();
 banco.adicionarUsuario('João Silva', 'joaozin@gmail.com', 'senha123');
 banco.adicionarUsuario('Maria Silveira', 'mariazinha10@gmail.com', 'soulinda');

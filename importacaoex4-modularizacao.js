@@ -1,4 +1,4 @@
-import { adicao, subtracao, multiplicacao, divisao, potenciacao } from './exportacao.js';
+import { adicao, subtracao, multiplicacao, divisao, potenciacao } from './exportacaoex4-modularizacao.js';
 const a = 10
 const b = 10
 console.log(`Soma: ${a} + ${b} = ${adicao(a, b)}`);
